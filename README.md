@@ -24,7 +24,7 @@ var jq = document.createElement('script');
 ```
 (enter)
 ```
-jq.src = "./../../../darkreader.min.js";
+jq.src = "/home/dark/.config/MongoDB Compass/darkreader.min.js";
 ```
 (enter)
 ```
